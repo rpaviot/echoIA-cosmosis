@@ -12,4 +12,4 @@ What need to be done :
 - Replace the Dc(z) measurement provided by pyccl in harry code directly by the camb calculation of Dc(z) (already computed within the camb module).
 - Provide an other .ini file with the TATT model.
 - Look more closely to harry' modules. Actually it doesn't go from Pk to Cl, weird convention for rp? (rp = theta here..)
-- 
+
